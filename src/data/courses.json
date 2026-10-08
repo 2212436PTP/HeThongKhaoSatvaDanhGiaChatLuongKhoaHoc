@@ -1,0 +1,46 @@
+[
+  {
+    "id": "crs_1",
+    "code": "IT-BASIC",
+    "name": "Tin học cơ bản",
+    "type": "REGULAR",
+    "duration": "45 tiết (30 LT - 15 TH, 6 tuần)",
+    "description": "Chương trình đào tạo chuẩn ITC"
+  },
+  {
+    "id": "crs_2",
+    "code": "IT-ADV",
+    "name": "Tin học Nâng cao",
+    "type": "REGULAR",
+    "duration": "45 tiết (30 LT - 15 TH, 6 tuần)",
+    "description": "Chương trình đào tạo chuẩn ITC"
+  },
+  {
+    "id": "crs_3",
+    "code": "WEB-DEV",
+    "name": "Lập trình Web Frontend",
+    "type": "REGULAR",
+    "duration": "45 tiết (30 LT - 15 TH, 6 tuần)",
+    "description": "Chương trình đào tạo chuẩn ITC"
+  },
+  {
+    "id": "crs_4",
+    "code": "DATA-ANALYTICS",
+    "name": "Phân tích dữ liệu với Python",
+    "type": "REGULAR",
+    "duration": "45 tiết (30 LT - 15 TH, 6 tuần)",
+    "description": "Chương trình đào tạo chuẩn ITC"
+  },
+  {
+    "id": "crs_cc01",
+    "code": "CC01",
+    "name": "Tin học MOS",
+    "type": "CERTIFICATE",
+    "duration": "90 tiết (60 LT - 30 TH, 6 tuần)",
+    "totalPeriods": 90,
+    "theoryPeriods": 60,
+    "practicePeriods": 30,
+    "weeksCount": 6,
+    "description": "Khóa đào tạo chứng chỉ chuyên đề - Trung tâm Tin học ITC"
+  }
+]

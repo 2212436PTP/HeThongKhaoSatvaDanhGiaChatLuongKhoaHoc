@@ -1,0 +1,78 @@
+[
+  {
+    "id": "tc_1790775428251_0",
+    "teacherId": "9b3bf4ec-a650-465b-9773-f0d0fd375c04",
+    "name": "Mục tiêu của khóa học được xác định rõ ràng và phù hợp với nhu cầu học tập của sinh viên.",
+    "orderIndex": 1,
+    "status": "APPROVED"
+  },
+  {
+    "id": "tc_1790775428251_1",
+    "teacherId": "9b3bf4ec-a650-465b-9773-f0d0fd375c04",
+    "name": "Nội dung khóa học phù hợp với mục tiêu và kiến thức",
+    "description": "Kỹ năng cần đạt được sau khi hoàn thành khóa học.",
+    "orderIndex": 2,
+    "status": "APPROVED"
+  },
+  {
+    "id": "tc_1790775428251_2",
+    "teacherId": "9b3bf4ec-a650-465b-9773-f0d0fd375c04",
+    "name": "Nội dung khóa học được cập nhật",
+    "description": "Phù hợp với sự phát triển của công nghệ và nhu cầu thực tế.",
+    "orderIndex": 3,
+    "status": "APPROVED"
+  },
+  {
+    "id": "tc_1790775428251_3",
+    "teacherId": "9b3bf4ec-a650-465b-9773-f0d0fd375c04",
+    "name": "Cấu trúc và trình tự các nội dung trong khóa học được sắp xếp hợp lý",
+    "description": "Logic và dễ theo dõi.",
+    "orderIndex": 4,
+    "status": "APPROVED"
+  },
+  {
+    "id": "tc_1790775428251_4",
+    "teacherId": "9b3bf4ec-a650-465b-9773-f0d0fd375c04",
+    "name": "Tỷ lệ giữa lý thuyết và thực hành trong khóa học phù hợp với đặc điểm và mục tiêu đào tạo.",
+    "orderIndex": 5,
+    "status": "APPROVED"
+  },
+  {
+    "id": "tc_1790775428251_5",
+    "teacherId": "9b3bf4ec-a650-465b-9773-f0d0fd375c04",
+    "name": "Sinh viên được cung cấp đầy đủ thông tin về nội dung",
+    "description": "Lịch học, yêu cầu và kết quả cần đạt của khóa học.",
+    "orderIndex": 6,
+    "status": "APPROVED"
+  },
+  {
+    "id": "tc_1790775428251_6",
+    "teacherId": "9b3bf4ec-a650-465b-9773-f0d0fd375c04",
+    "name": "Giảng viên có kiến thức chuyên môn tốt và nắm vững nội dung của khóa học.",
+    "orderIndex": 7,
+    "status": "APPROVED"
+  },
+  {
+    "id": "tc_1790775428251_7",
+    "teacherId": "9b3bf4ec-a650-465b-9773-f0d0fd375c04",
+    "name": "Giảng viên trình bày nội dung rõ ràng",
+    "description": "Dễ hiểu và phù hợp với trình độ của sinh viên.",
+    "orderIndex": 8,
+    "status": "APPROVED"
+  },
+  {
+    "id": "tc_1790775428251_8",
+    "teacherId": "9b3bf4ec-a650-465b-9773-f0d0fd375c04",
+    "name": "Giảng viên kết hợp hiệu quả giữa kiến thức lý thuyết và thực hành trong quá trình giảng dạy.",
+    "orderIndex": 9,
+    "status": "APPROVED"
+  },
+  {
+    "id": "tc_1790775428251_9",
+    "teacherId": "9b3bf4ec-a650-465b-9773-f0d0fd375c04",
+    "name": "Phương pháp giảng dạy tạo điều kiện cho sinh viên chủ động thực hành",
+    "description": "Trao đổi và giải quyết vấn đề.",
+    "orderIndex": 10,
+    "status": "APPROVED"
+  }
+]

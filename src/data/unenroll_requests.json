@@ -1,0 +1,46 @@
+[
+  {
+    "id": "unreq_1790857163754",
+    "studentId": "ee269cd4-dd15-458a-97af-e692bd5f47ae",
+    "studentCode": "SV02",
+    "studentName": "Trần Thị Bình",
+    "classCode": "ITC_26_37",
+    "reason": "Lý do cá nhân",
+    "status": "APPROVED",
+    "requestedAt": "2026-10-01T12:19:23.754Z",
+    "resolvedAt": "2026-10-01T12:19:37.309Z"
+  },
+  {
+    "id": "unreq_1790857160636",
+    "studentId": "ee269cd4-dd15-458a-97af-e692bd5f47ae",
+    "studentCode": "SV02",
+    "studentName": "Trần Thị Bình",
+    "classCode": "ITC_26_59",
+    "reason": "Lý do cá nhân",
+    "status": "APPROVED",
+    "requestedAt": "2026-10-01T12:19:20.636Z",
+    "resolvedAt": "2026-10-01T12:19:38.180Z"
+  },
+  {
+    "id": "unreq_1790854506870",
+    "studentId": "0e8afa3d-6da4-4c45-979d-46dc59521c64",
+    "studentCode": "SV01",
+    "studentName": "Nguyễn Văn An",
+    "classCode": "ITC_26_37",
+    "reason": "Lý do cá nhân",
+    "status": "APPROVED",
+    "requestedAt": "2026-10-01T11:35:06.870Z",
+    "resolvedAt": "2026-10-01T11:35:32.105Z"
+  },
+  {
+    "id": "unreq_1790854505441",
+    "studentId": "0e8afa3d-6da4-4c45-979d-46dc59521c64",
+    "studentCode": "SV01",
+    "studentName": "Nguyễn Văn An",
+    "classCode": "ITC_26_59",
+    "reason": "Lý do cá nhân",
+    "status": "APPROVED",
+    "requestedAt": "2026-10-01T11:35:05.441Z",
+    "resolvedAt": "2026-10-01T11:35:33.038Z"
+  }
+]

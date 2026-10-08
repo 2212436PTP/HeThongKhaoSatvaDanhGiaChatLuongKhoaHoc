@@ -1,0 +1,52 @@
+[
+  {
+    "studentId": "ee269cd4-dd15-458a-97af-e692bd5f47ae",
+    "classCode": "ITC_26_59",
+    "enrolledAt": "2026-10-01T12:19:47.768Z"
+  },
+  {
+    "studentId": "ee269cd4-dd15-458a-97af-e692bd5f47ae",
+    "classCode": "ITC_26_37",
+    "enrolledAt": "2026-10-01T12:19:48.287Z"
+  },
+  {
+    "studentId": "ecbd054f-466f-4994-9d1a-20826366d38e",
+    "classCode": "ITC_26_59",
+    "enrolledAt": "2026-10-01T12:24:53.993Z"
+  },
+  {
+    "studentId": "ecbd054f-466f-4994-9d1a-20826366d38e",
+    "classCode": "ITC_26_37",
+    "enrolledAt": "2026-10-01T12:24:54.771Z"
+  },
+  {
+    "studentId": "0e8afa3d-6da4-4c45-979d-46dc59521c64",
+    "classCode": "ITC_26_59",
+    "enrolledAt": "2026-10-02T08:18:44.417Z"
+  },
+  {
+    "studentId": "0e8afa3d-6da4-4c45-979d-46dc59521c64",
+    "classCode": "ITC_26_37",
+    "enrolledAt": "2026-10-02T08:18:44.885Z"
+  },
+  {
+    "studentId": "0e8afa3d-6da4-4c45-979d-46dc59521c64",
+    "classCode": "IT-ADV",
+    "enrolledAt": "2026-10-02T08:36:48.942Z"
+  },
+  {
+    "studentId": "0e8afa3d-6da4-4c45-979d-46dc59521c64",
+    "classCode": "WEB-DEV",
+    "enrolledAt": "2026-10-02T08:36:49.532Z"
+  },
+  {
+    "studentId": "0e8afa3d-6da4-4c45-979d-46dc59521c64",
+    "classCode": "CC01",
+    "enrolledAt": "2026-10-02T08:36:50.687Z"
+  },
+  {
+    "studentId": "0e8afa3d-6da4-4c45-979d-46dc59521c64",
+    "classCode": "DATA-ANALYTICS",
+    "enrolledAt": "2026-10-02T08:36:51.390Z"
+  }
+]

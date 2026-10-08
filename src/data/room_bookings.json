@@ -1,0 +1,15 @@
+[
+  {
+    "id": "rb_1790784300000",
+    "teacherId": "5c345371-3cba-4933-8758-c6f37f3eb3c4",
+    "teacherName": "TS. Nguyễn Văn A",
+    "courseName": "Tin học cơ bản",
+    "room": "Phòng TV 1",
+    "date": "2026-10-02",
+    "timeSlot": "Chiều T2 (13:30 - 17:00)",
+    "computersNeeded": 35,
+    "purpose": "Dạy bù thực hành phòng máy và ôn tập đề thi",
+    "status": "REJECTED",
+    "createdAt": "01/10/2026 18:40"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "notif_1",
+    "title": "📢 Chào mừng đến với Hệ thống Đánh giá Chất lượng ITC - ĐH Đà Lạt",
+    "content": "Học viên vui lòng hoàn thành phiếu khảo sát chất lượng sau khi kết thúc khóa học để xem bảng điểm và nhận chứng chỉ.",
+    "sender": "CENTER",
+    "senderName": "Trung tâm Công nghệ Thông tin - ĐH Đà Lạt",
+    "date": "02/10/2026",
+    "isRead": false,
+    "priority": "NORMAL"
+  }
+]

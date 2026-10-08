@@ -1,0 +1,16 @@
+[
+  {
+    "classId": "cls_1790781343701",
+    "classCode": "ITC_26_37",
+    "studentId": "ee269cd4-dd15-458a-97af-e692bd5f47ae",
+    "studentCode": "SV02",
+    "studentName": "Trần Thị Bình",
+    "attendanceScore": 10,
+    "labScore": 10,
+    "midtermScore": 10,
+    "finalScore": 10,
+    "totalScore": 10,
+    "letterGrade": "A+",
+    "isPassed": true
+  }
+]

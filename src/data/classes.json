@@ -1,0 +1,36 @@
+[
+  {
+    "id": "cls_1790781409648",
+    "code": "ITC_26_59",
+    "courseId": "crs_1",
+    "teacherId": "5b298ea0-63aa-4780-8c9a-e0d03cf28f2a",
+    "teacherId2": "979f9467-f1a4-4322-830e-4117f219e8d1",
+    "teacherRole1": "Giảng viên Lý thuyết",
+    "teacherRole2": "Giảng viên Thực hành phòng máy",
+    "teacherIds": [
+      "5b298ea0-63aa-4780-8c9a-e0d03cf28f2a",
+      "979f9467-f1a4-4322-830e-4117f219e8d1"
+    ],
+    "room": "Phòng TV 1",
+    "schedule": "Sáng T2-T4-T6 (08:00 - 10:30)",
+    "studentsCount": 10,
+    "status": "OPEN_SURVEY"
+  },
+  {
+    "id": "cls_1790781343701",
+    "code": "ITC_26_37",
+    "courseId": "crs_1",
+    "teacherId": "9b3bf4ec-a650-465b-9773-f0d0fd375c04",
+    "teacherId2": "a23f3ca1-1e50-4b7a-99d3-aa613fd5ae2d",
+    "teacherRole1": "Giảng viên Lý thuyết",
+    "teacherRole2": "Giảng viên Thực hành phòng máy",
+    "teacherIds": [
+      "9b3bf4ec-a650-465b-9773-f0d0fd375c04",
+      "a23f3ca1-1e50-4b7a-99d3-aa613fd5ae2d"
+    ],
+    "room": "Phòng TV 1",
+    "schedule": "Tối T2-T4-T6 (18:00 - 20:30)",
+    "studentsCount": 10,
+    "status": "OPEN_SURVEY"
+  }
+]
